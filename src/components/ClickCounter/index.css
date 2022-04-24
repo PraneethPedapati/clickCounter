@@ -1,0 +1,35 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+}
+
+.heading {
+  font-size: 45px;
+  color: #2d3a35;
+  margin: 5px;
+}
+
+.counter-element {
+  color: #c20a72;
+}
+
+.description {
+  font-size: 20px;
+  color: #2d3a35;
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  font-size: 15px;
+  border-style: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  margin: 15px;
+}
